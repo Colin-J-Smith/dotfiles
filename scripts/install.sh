@@ -32,6 +32,7 @@ install openvpn
 install tree
 install vim
 install wget
+install gnome-tweaks
 
 # Image processing
 install gimp
