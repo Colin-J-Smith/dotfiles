@@ -33,6 +33,7 @@ install tree
 install vim
 install wget
 install gnome-tweaks
+install virtualbox
 
 # Image processing
 install gimp
